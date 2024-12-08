@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atasözlerine Yolculuk: Yapay Zekâ Destekli Öğrenme</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(140deg, #ffffff 0%, #e6eef5 50%, #d4e1ed 100%);
+            min-height: 100vh;
+            color: #606C76;
+        }
+        .container {
+            max-width: 650px;
+            margin: auto;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            text-align: center;
+            color: #18416F;
+        }
+        label {
+            margin-top: 10px;
+            color: #18416F;
+        }
+        input[type="text"], input[type="email"] {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            border: 1px solid #B0B6BB;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #18416F;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        button:hover {
+            background-color: #606C76;
+        }
+        .test-button {
+            display: block;
+            width: 100%;
+            margin-top: 10px;
+        }
+        .question-container {
+            margin-bottom: 20px;
+            border-bottom: 1px solid #B0B6BB;
+            padding-bottom: 10px;
+        }
+        .question {
+            color: #18416F;
+            margin-bottom: 10px;
+        }
+        .options {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .option {
+            display: flex;
+            align-items: center;
+            color: #393b3e;
+        }
+        .option input[type="radio"] {
+            margin-right: 10px;
+        }
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            max-height: 300px;
+            object-fit: contain;
+            margin: 0 auto 10px;
+            display: block;
+        }
+        #questionContainer {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .option.correct {
+        color: #16A026;
+    }
+    .option.incorrect {
+        color: #EE3A39;
+    }
+    .feedback-icon {
+        width: 20px;
+        height: 20px;
+        margin-left: 10px;
+        vertical-align: middle;
+    }
+</style>
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Atasözlerine Yolculuk: Yapay Zekâ Destekli Öğrenme</h1>
+        <div id="userForm">
+            <label for="name">İsim:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">E-posta:</label>
+            <input type="email" id="email" name="email" required>
+
+            <button onclick="submitUserForm()">Başla</button>
+        </div>
+        <div id="testSelection" style="display:none;">
+            <h2>Bir Test Seçin:</h2>
+            <button class="test-button" onclick="startTest('straightforward')">Doğrudan Atasözleri</button>
+            <button class="test-button" onclick="startTest('text')">Metinden Atasözleri</button>
+            <button class="test-button" onclick="startTest('pictures')">Resimlerden Atasözleri</button>
+        </div>
+    </div>
+    <div id="questionContainer"></div>
+    <div class="navigation">
+        <button id="nextButton" style="display:none;" onclick="nextQuestion()">Sonraki Soru</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
