@@ -903,10 +903,15 @@ function submitAnswer() {
         const isSelected = index === userAnswerIndex;
         
         option.style.color = isCorrect ? '#4CAF50' : '#F44336';
-        option.style.height = '24px'
-        option.style.lineHeight = '24px';
+        option.style.minHeight = '24px';
+        option.style.lineHeight = '1.5';
         option.style.fontWeight = '400';
         option.style.margin = '10px 0';
+        option.style.padding = '5px 0';
+        option.style.display = 'flex';
+        option.style.alignItems = 'flex-start';
+        option.style.textAlign = 'left';
+        option.style.fontStyle = 'normal';
         
         if (isCorrect) {
             option.innerHTML += ' <img src="tick.png" alt="Doğru" class="feedback-icon">';
