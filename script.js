@@ -570,79 +570,79 @@ Bu atasözünün anlamı aşağıdakilerden hangisidir?`,
     ],
     pictures: [
         { 
-            question: "/images/1.JPG",
+            question: "1.JPG",
             options: ["Yetiştirdiğiniz çocuğa çok fazla ilgi verirseniz daha fazlasını ister. Eğer hiç ilgi vermezseniz bu ilgiyi başkalarında arar.", "Bireyin toplumsal sorumluluklarını yerine getirmesi önemlidir. Bu kişi acınacak halde veya açsa bunları yerine getiremez. Bu toplumsal düzeni bozar.", "Kişinin kendine acıması veya maddi sıkıntılar dolayısıyla aç kalması onu topluma uyumsuz bir birey yapar.", "Çocuğunuza insanların sürekli acımasını sağlarsınız bu acınmadan rahatsız olur ve ilgi ister. Eğer insanların ilgisine izin vermezseniz çocuk kötü davranışlara yönelir."],
             answer: 0,
             proverb: "Acındırırsan arsız, acıktırırsan hırsız olur."
         },
         { 
-            question: "images/2.jpg",
+            question: "2.JPG",
             options: ["Hayvanlar aralarında kötü huylu olanları uzaklaştırırken insanların arasında kötü huylular da bulunur.", "İnsanlar hayvanların aksine düşündüğünden onları anlamak daha kolaydır.", "Hayvanların niyetleri postlarının rengi gibi görünürdür ancak insan öyle değildir, dışarıdan huyu anlaşılmaz.", "İnsanlar birbirine ne düşündüklerini kolayca iletebilirken hayvanlar bunu yapamaz."],
             answer: 2,
             proverb: "Adamın alacası içinde, hayvanın alacası dışında."
         },
         { 
-            question: "images/3.jpg",
+            question: "3.JPG",
             options: ["Kararlarımızı verirken tecrübeli insanlara danışmalıyız.", "Dış görünüş toplumsal hayatımız için çok önemlidir. Buna gerekli özeni göstermeyenler sonuçlarına razı olmalıdır.", "Hayatta işlerini acemi insanlara verenler sonuçlarına katlanmaya hazır olmalıdır.", "Hayatta insanlar işlerini acemilere vermelidir, böylece acemiler de parlama şansı yakalar."],
             answer: 2,
             proverb: "Başını acemi berbere teslim eden cebinden pamuğu eksik etmez."
         },
         { 
-            question: "images/4.jpg",
+            question: "4.JPG",
             options: ["Olmayacak bir şey için çabalamak boşadır. Bir şey olmayacak gibi görünüyorsa vazgeçmeliyiz.", "Aynı anda çok fazla ağırlık altına girersek kendimize zarar verebiliriz.", "Karpuz gibi şekerli meyveler çok tüketilmesi halinde insanların sağlığına zarar verebilir.", "Aynı zamanda iki büyük işi bir arada yürütmek zordur."],
             answer: 3,
             proverb: "Bir koltuğa iki karpuz sığmaz."
         },
         { 
-            question: "images/5.jpg",
+            question: "5.JPG",
             options: ["İtici kimseler hatalarının belli olmasını istemez.", "Soylu insanlar çok zor durumlarda bile dışarıdan bunun belli olmamasına özen gösterirler.", "Hayvanlar âleminde güçlü hayvanların ölüsünü rastlamak zordur.", "Doğal döngüde ölüler hemen toprağa karıştığından hayvanların cesetleri görülmez."],
             answer: 1,
             proverb: "Cins kedi ölüsünü göstermez."
         },
         { 
-            question: "images/6.jpg",
+            question: "6.JPG",
             options: ["Eli açık kimseler ile cimri kimselerin harcadığı para sonunda denkleşir.", "Sonradan zenginleşmiş kimseler hayatları boyunca zengin olanlarla aynı şekilde harcarlar.", "Bir insan cömert de olsa cimri de olsa kaderi bellidir.", "Cömertlik ve cimrilik birbirine karıştırılmamalıdır."],
             answer: 0,
             proverb: "Cömert ile nekesin harcı birdir."
         },
         { 
-            question: "images/7.jpg",
+            question: "7.JPG",
             options: ["İnsanlar kendi doğrularını diretirlerse olumsuz sonuçlarla karşılaşabilirler.", "İnsanlar kendileri için yaptıkarını başkaları için yapmaktan çekinirler.", "Göz ışığa alıştığından ışık söndükten sonra etraf daha karanlık görünür.", "Bir kimse başkalarına yaptığı yardımı kendi yakınlarına yapmaz."],
             answer: 3,
             proverb: "Çıra dibi karanlık olur."
         },
         { 
-            question: "images/8.jpg",
+            question: "8.JPG",
             options: ["Tembel insanlar olumsuz sonuçlarla karşılaşırlar.", "Kararsız insanlar istemedikleri şeylere mahkumlardır.", "Etrafındakileri kıskanan kimseler oldukları durumdan daha kötü durumlarla karşı karşıya gelirler.", "Parasını neye harcayağını çok düşünen insanlar genellikle hiç harcayamazlar."],
             answer: 1,
             proverb: "Dazlayan daza düşer, kel başlı kıza düşer."
         },
         { 
-            question: "images/9.jpg",
+            question: "9.JPG",
             options: ["İnsan kimseye muhtaç olmamalıdır. Kendi başının çaresine bakmalıdır.", "İnsanlardan yardım istemek sorunlarımızı çözmemizi kolaylaştırır.", "Bir kimsenin sorununu kendisinden başkası çözmeye uğraşmaz.", "Hayvanlar şarkı türkü gibi melodilere karşılık verir. Bu seslere ilgi gösterirler."],
             answer: 2,
             proverb: "El elin eşeğini türkü söyleyerek arar."
         },
         { 
-            question: "images/10.jpg",
+            question: "10.JPG",
             options: ["İnsanlar kendisine yarar sağlayacak şeylere yönelir.", "Deliler diğer deliler dışında kimseyle anlaşamaz. Aynı şey imamlar için de geçerlidir.", "İnsanlar kendilerini korkutan şeylere ilgi duyar.", "Korkularımızın üstüne gitmeliyiz böylece onlardan kurtulabiliriz."],
             answer: 0,
             proverb: "Deli deliden, imam ölüden hoşlanır."
         },
         { 
-            question: "images/11.jpg",
+            question: "11.JPG",
             options: ["İnsanlar zor durumlarda daha iyi düşünürler ve daha iyi kararlar alırlar.", "İnsanların çok üstüne gidersek bir noktada bize kızıp sinirlenebilirler.", "Korkak bilinen insanlar üstlerine gidilirse beklenmedik şekilde cesur olabilirler.", "Tembel bilinen insanlar onlara dokunan bir durum olduğunda çok çalışkan olabilirler."],
             answer: 3,
             proverb: "Eşeğin canı yanınca attan yörük olur."
         },
         { 
-            question: "images/12.jpg",
+            question: "12.JPG",
             options: ["Düşünmeyen bir beyin ölü bir beyindir.", "Kimseye bir katkısı olmayan insanların ölüden farkı yoktur.", "Akıllı davranmayan insanlar kötü sonuçlarla karşılaşır.", "Topluma katkı sağlamayan bireyler kolay unutulur."],
             answer: 1,
             proverb: "Faydasız baş mezara yaraşır."
         },
         { 
-            question: "images/13.jpg",
+            question: "13.JPG",
             options: ["Allah'ın kararları mutlaktır ve her insan kaderini yaşar.", "Allah'ın kararları mutlaktır ve her insan kaderini yaşar.", "Büyüklerden gelen hediyeler her zaman kabul edilir.", "Daha alt konumdakiler üst konumdakilerden gelen her şeyi kabul etmek durumundadır."],
             answer: 3,
             proverb: "Gökten ne yağar ki yer kabul etmez."
