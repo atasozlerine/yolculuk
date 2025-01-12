@@ -570,7 +570,7 @@ Bu atasözünün anlamı aşağıdakilerden hangisidir?`,
     ],
     pictures: [
         { 
-            question: "images/1.jpg",
+            question: "/yolculuk/images/1.jpg",
             options: ["Yetiştirdiğiniz çocuğa çok fazla ilgi verirseniz daha fazlasını ister. Eğer hiç ilgi vermezseniz bu ilgiyi başkalarında arar.", "Bireyin toplumsal sorumluluklarını yerine getirmesi önemlidir. Bu kişi acınacak halde veya açsa bunları yerine getiremez. Bu toplumsal düzeni bozar.", "Kişinin kendine acıması veya maddi sıkıntılar dolayısıyla aç kalması onu topluma uyumsuz bir birey yapar.", "Çocuğunuza insanların sürekli acımasını sağlarsınız bu acınmadan rahatsız olur ve ilgi ister. Eğer insanların ilgisine izin vermezseniz çocuk kötü davranışlara yönelir."],
             answer: 0,
             proverb: "Acındırırsan arsız, acıktırırsan hırsız olur."
