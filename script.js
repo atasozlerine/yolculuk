@@ -648,163 +648,163 @@ Bu atasözünün anlamı aşağıdakilerden hangisidir?`,
             proverb: "Gökten ne yağar ki yer kabul etmez."
         },
         { 
-            question: "images/14.jpg",
+            question: "14.JPG",
             options: ["İnsanlar çok kötü günler geçirebildikleri gibi aniden işler yoluna koyulabilir.", "İnsan aç değilse yemeği hiç düşünmez. Aç olduğu zaman aklı hep yemektedir.", "Bazen kurak mevsimler olduğu gibi çok bereketli dönemler de olur.", "İnsanlara kazançları her zaman dengeli gelmez. Zaman zaman değişir."],
             answer: 3,
             proverb: "Gün var yılı besler, yıl var ayı beslemez."
         },
         { 
-            question: "images/15.jpg",
+            question: "15.JPG",
             options: ["Çocuklar küçükken tatlı olur ama büyüdükçe kalp kırarlar.", "Meyveler çok olgunlaştığında acır. En tatlı meyve yeni olgunlaşmaya başlamış olandır.", "İnsanlarla ilk tanıştığımızda bize karşı çok iyi davranırlar. Bize alıştıkça rahatlayıp bize kötü davrandıkları olur.", "İnsanlarla fazla vakit geçirdiğimizde onlarla anlaşmazlığa düşme ihtimalimizi arttırız. Bu nedenle herkesle kararında zaman geçirmeliyiz."],
             answer: 0,
             proverb: "Hamı tatlı, yetkini acı."
         },
         { 
-            question: "images/16.jpg",
+            question: "16.JPG",
             options: ["Zengin olan insanlar eski alışkanlıklarını beğenmezler, daha havalı olduklarını düşündükleri şeylere yönelirler.", "İnsan parasını helâl kazanmaya önem gösterirse şansı her zaman yaver gider, kazancı bol olur.", "İnsan ahlak kurallarını terk etmeden zengin olamaz.", "İnsan sadece kendi emeğiyle bir yere gelemez."],
             answer: 2,
             proverb: "Helâl kazanç ile pilâv yağlı yenmez."
         },
         { 
-            question: "images/17.jpg",
+            question: "17.JPG",
             options: ["Temkinli insanlar her zaman doğru yolda giderler. Olumsuz durumlardan etkilenmezler.", "Cimri insanlar tüm tutumlarına rağmen eninde sonunda paralarını kaybederler.", "Gerekmedik yerde para harcayan insanlar gerektiğinde parayı bulamazlar.", "Cömert insanlar diğerlerine yardım edeyim derken kendi paralarından olurlar."],
             answer: 2,
             proverb: "Işığını akşamdan önce yakan sabah çırasında yağ bulamaz."
         },
         { 
-            question: "images/18.jpg",
+            question: "18.JPG",
             options: ["İnsanlar liderleri takip etme eğilimindedir.", "Doğru yolda yürüyenleri kimse aşağı çekemez.", "Kendi bildiğini yapan insanlar eninde sonunda başarıya ulaşır.", "İnsanı başarıya götüren her yol meşrudur."],
             answer: 1,
             proverb: "İt ürür, kervan yürür."
         },
         { 
-            question: "images/19.jpg",
+            question: "19.JPG",
             options: ["İnsan içinde birini rencide edersen sana kötü sonuç olarak dönebilir.", "Herkesin düşüncesi farklıdır herkesten fikir almaya çalışırsak kafamız karışır.", "Herkesin gözü farklı görür bazımıza yakın görünen bazımıza uzak gelir.", "Önemsiz konularda herkesin fikrini almaya çalışan ne yapacağını şaşırır."],
             answer: 3,
             proverb: "Kalabalıkta eşeğin kuyruğunu kesme, kimi uzun der, kimi kısa."
         },
         { 
-            question: "images/20.jpg",
+            question: "20.JPG",
             options: ["Kendi bildiğimizin peşinden gidersek her zaman olumlu dönüt almayabiliriz", "Kötü soylu şey ve kişi iyiye dönmez. Ona iyi niteliği kazandırmak için ne denli uğraşılırsa uğraşılsın yine aslından bir kötü iz kalır", "İnsan olduğundan farklı biri gibi davranırsa kimliğini kaybeder.", "Etrafımızda kötü insanlar bulunursa biz de eninde sonunda onlara benzeriz."],
             answer: 1,
             proverb: "Katrandan olmaz şeker, olsa da cinsine çeker."
         },
         { 
-            question: "images/21.jpg",
+            question: "21.JPG",
             options: ["İnsanların gülmesini istiyorsak şakalarımızın iyi düşünülmüş olması gerekir.", "Sevilmeyen insanların şakasına komik bile olsa gülünmez.", "Şaka yaparken kibarlığı elden bırakmamalıyız.", "Her şakanın altında biraz olsun gerçek yatar."],
             answer: 2,
             proverb: "Lâtife latif gerek."
         },
         { 
-            question: "images/22.jpg",
+            question: "22.JPG",
             options: ["Kötü insanlar diğer kötüleri göstererek kendi yaptıklarını  normalleştirirler.", "İnsanlar bir başkasının sorumluluğunu almak istemez. ", "Esnaf arasında komşuluk olsa bile rekabet olur.", "İnsanlar borç aldıkları kimselerden çekinirler ve onlarla iletişimden kaçınırlar."],
             answer: 0,
             proverb: "Meyhaneciden kefil istemişler, bozacıyı göstermiş."
         },
         { 
-            question: "images/23.jpg",
+            question: "23.JPG",
             options: ["Bir şeyin sonucu kötü olsa bile niyeti iyi ise iyi sayılır.", "Bazı işlerin niyeti iyi olsa da kötü sonuçlanabilir.", "İyi niyetle başlanan iş iyi sonuçlanır.", "Bir işin sonucu iyi bile olsa niyet kötü ise kötü bir işin eseridir."],
             answer: 2,
             proverb: "Niyet hayır, akıbet hayır."
         },
         { 
-            question: "images/24.jpg",
+            question: "24.JPG",
             options: ["Kişi seyahat ederken başına normalde olmayan şeyler gelebilir.", "Kişi iyi talihli bile olsa bazen başına kötü şeyler gelir.", "İmansız kişinin başına olmadık işler gelir.", "Talihsiz insanın işi rast gitmez."],
             answer: 3,
             proverb: "Onmadık hacıyı deve üstünde yılan sokar."
         },
         { 
-            question: "images/25.jpg",
+            question: "25.JPG",
             options: ["Kız çocukları evlenmezse hayatları kötü etkilenir.", "Çocuklarımızı terbiyeli yetiştirmeliyiz.", "Bazen insan memleketinden ayrılmak durumunda kalabilir.", "Kararlarını düşünmeyen insanlar kötü kararlar verirler."],
             answer: 1,
             proverb: "Ölürse yer beğensin, kalırsa el beğensin."
         },
         { 
-            question: "images/26.jpg",
+            question: "26.JPG",
             options: ["Sürekli kötü davranan bir kişiye olan tepki arada bir büyük yanlışlıklar yapan birine olan tepkiye kıyasla daha fazladır.", "İnsanlar büyük acılarını daha kolay unuturlar.", "Delirmek ve aklını kaybetmektense ölüm yeğdir.", "Ölümler insanları üzse bile sürekli etrafta olanlar kadar üzemez."],
             answer: 0,
             proverb: "Ölüsü olan bir gün, delisi olan her gün ağlar."
         },
         { 
-            question: "images/27.jpg",
+            question: "27.JPG",
             options: ["Kişi her gün aynı şeyi yemek istemez.", "İnsan zaman zaman değişiklik ister.", "Papazlar gibi din adamlarının garip alışkanlıkları olur.", "Herkesin kendine göre bir rutini vardır. Dışarıdan yargılamak doğru değildir."],
             answer: 1,
             proverb: "Papaz her gün pilâv yemez."
         },
         { 
-            question: "images/28.jpg",
+            question: "28.JPG",
             options: ["Ekonomik açıdan kötü durumda olan insanlar harcamalarına fazladan önem gösterir.", "Cömert insanların etrafı onlardan fayda sağlamak isteyenlerle doludur.", "İnsanlar çok cömert kimselerin yanında kendini kötü hisseder ve onlardan çekinir.", "Cömert insanlar etrafta saygı uyandırır."],
             answer: 3,
             proverb: "Paran ucuz olursa sen pahalı olursun."
         },
         { 
-            question: "images/29.jpg",
+            question: "29.JPG",
             options: ["Bir işten erken dönenler daha büyük olumsuzluklarla yüzleşir.", "Bir işi sonuçlandırmadan bırakmamalıyız.", "Yemeklerin tamamını yemek gelişim açısından çok önemlidir.", "İsraf etmek yanlıştır ve kaçınılmalıdır."],
             answer: 1,
             proverb: "Pilâvdan dönenin kaşığı kırılsın."
         },
         { 
-            question: "images/30.jpg",
+            question: "30.JPG",
             options: ["Fırsat kovalamayıp yaptıkları işi kendi başına yapanlar başarısız olurlar.", "Çalışırken destek istemeyenler başarılı olmakta zorluk çekerler.", "Her işin bir yapış şekli vardır bu şekilde yapmazsak zorlanırız.", "Toplumla birlikte hareket eden kişiler rahat eder."],
             answer: 3,
             proverb: "Rüzgârın önüne düşmeyen yorulur."
         },
         { 
-            question: "images/31.jpg",
+            question: "31.JPG",
             options: ["Önemli olan maddiyat değil kişinin hüneridir.", "Para gibi pek çok materyal benzer işlevlere sahiptir.", "Değerli nesneye benzemekle yeri tutulmaz.", "Hiçbir şey maddiyattan önemli değildir."],
             answer: 2,
             proverb: "Şık şık eden nalçadır, iş bitiren akçedir."
         },
         { 
-            question: "images/32.jpg",
+            question: "32.JPG",
             options: ["Kendisine gerekli olan şeyler kişiye ağırlık yapmaz.", "Kendisine gerekli olan şeyler kolay taşınır olan kimseler rahat hayatlar sürer.", "İnsana gerekli olan şeyler birkaç önemli eşyadan ibarettir.", "Çok yer değiştiren insanlar bu konuda tecrübeli olduklarından onlara zor gelmez."],
             answer: 0,
             proverb: "Terziye 'göç' demişler, 'iğnem başımda' demiş."
         },
         { 
-            question: "images/33.jpg",
+            question: "33.JPG",
             options: ["Yolları kontrol etmeden geçmek kötü sonuçlara yol açabilir.", "Büyüklerin tecrübelerine her zaman hürmet gösterilmelidir.", "Bir kişi sadece yaş olarak büyük olduğu için bilgili zannedilmemelidir.", "Yaşadıklarımız ve tecrübelerimiz bize hayatta her zaman yardımcı olur."],
             answer: 1,
             proverb: "Ulular köprü olsa basıp geçme."
         },
         { 
-            question: "images/34.jpg",
+            question: "34.JPG",
             options: ["Tek mekâna bağlı sıradan yaşam insanlara uygun değildir.", "Bir kötü düşünce etrafındakilerden destek bulursa bir anda büyür ve çok zararlı hale gelir.", "Göçebe hayat insanın yaşam ateşini harekete geçirir.", "Sürekli yer değiştirmenin ciddi zararları vardır."],
             answer: 3,
             proverb: "Üç göç, bir yangının yerini tutar."
         },
         { 
-            question: "images/35.jpg",
+            question: "35.JPG",
             options: ["Her meyveyi yemenin kendince bir yolu vardır.", "Bazı insanlar memnun olmayı bilmez.", "İyi bakmayı bilene her şey güzel görünür.", "Her kötü davranışa bir bahane bulunur."],
             answer: 1,
             proverb: "Üzümün çöpü var, armudun sapı."
         },
         { 
-            question: "images/36.jpg",
+            question: "36.JPG",
             options: ["İnsanlara yapamadıklarını hatırlatmak hoş karşılanmaz.", "Bazen bazı hedeflere ulaşmak için fedakârlıklar yapmak gerekir.", "Etrafımızdaki insanların yanlışlarına bazen göz yummalıyız.", "Çevreye uyum sağlamak durumundayız."],
             answer: 3,
             proverb: "Vardığın yer körse sen de gözünü kapa."
         },
         { 
-            question: "images/37.jpg",
+            question: "37.JPG",
             options: ["İnsanlar bazen sevdikleri kişilerin gözüne girmeye çalışırken istenmedik durumlara düşebilirler.", "Reklamın iyisi kötüsü olmaz, amaç akılda kalmaktır.", "İnsanlara zaman zaman kendini hatırlatmak unutulmamak için önemlidir.", "Dostun verdiği hediye her zaman değerlidir."],
             answer: 3,
             proverb: "Yar beni ansın bir koz ile, o da çürük çıksın."
         },
         { 
-            question: "images/38.jpg",
+            question: "38.JPG",
             options: ["Gereksiz harcamalar insana en büyük keyfi verir.", "İnsana kaçan fırsat büyük görünür.", "En büyük fırsatlar hep kaçırılan fırsatlardır.", "İnsanlar hep yanlış şeyi küçümserler."],
             answer: 1,
             proverb: "Ziyan olan koyunun kuyruğu yağlı olur."
         },
         { 
-            question: "images/39.jpg",
+            question: "39.JPG",
             options: ["Zenginler her işten kurtulmayı bilirken yoksullar başarıya ulaşmakta zorlanır.", "Zenginler hiçbir işi kendi yapmadığı için beceriksiz olurken yoksullar her işi becerir.", "Ezelden veri varlıklı olanlar aynı zamanda eğitimli olurken sonradan zegninlik kazananlar eğitim sahibi olmaz.", "Zengin malına kıymet vermezken fakir her türlü malına dikkat eder."],
             answer: 0,
             proverb: "Zengin arabasını dağdan aşırır. züğürt düz ovada yolunu şaşırır."
         },
         { 
-            question: "images/40.jpg",
+            question: "40.JPG",
             options: ["İnsanlar zor zamanlarda kendilerine öncülük edecek bir lider ararlar.", "Gerekli olan bulunamazsa benzerine razı olunur.", "Doğru insanlar kendini gösteremezse sahne yanlış insanlara kalır.", "Bir işi başarmak için doğru kişi bulunmazsa herkes seferber olur."],
             answer: 1,
             proverb: "Adam kıtlığında, keçiye Abdurrahman Çelebi derler."
