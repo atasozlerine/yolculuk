@@ -813,7 +813,7 @@ Bu atasözünün anlamı aşağıdakilerden hangisidir?`,
 };
 
 function sendToGoogleSheets(data) {
-    fetch('https://script.google.com/macros/s/AKfycbyHgbVGwFRxF1PbW6HjqEaGSe1FkkApyvMg7I3uDgaDj5H9VS7yJ-q3CaP0boJtX6vi/exec', {
+    fetch('https://script.google.com/macros/s/AKfycbxrM4FVn9UEfKUdvgFdxfUmwxm6egv4Vjphfjpn_rP-tdG3Dyi49XSudJzUUGuRH_SZ/exec', {
         method: 'POST',
         body: JSON.stringify(data)
     })
