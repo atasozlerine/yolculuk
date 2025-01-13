@@ -1,6 +1,6 @@
 // Örnek sorular (her test türü için)
 const questions = {
-    klasik: [
+    straightforward: [
         { 
             question: `1. Acındırırsan arsız, acıktırırsan hırsız olur.
 Bu atasözünün anlamı aşağıdakilerden hangisidir?`, 
@@ -242,7 +242,7 @@ Bu atasözünün anlamı aşağıdakilerden hangisidir?`,
             answer: 1
         },
     ],
-    metinli: [
+    text: [
         { 
             question: `1. Ayşe Hanım’ın oğlu Ahmet, hafif bir hastalık geçiriyordu. Hastalığı birkaç günde geçmesine rağmen annesinin ona olan ilgisini ve komşulara sürekli oğlunun hastalığından bahsetmesini gördükçe iyileştiğini söylemedi ve daha da kötüymüş gibi taklit yaptı. Bunu daha sonradan Ayşe Hanım fark etti. Ahmet bir ay sonra tekrar rahatsızlandığında annesi ona hiç ilgi vermedi ve bir şeyi olmadığını söyledi. Kötüleşen Ahmet kronik hastalığa sahip üst komşusundan ağrı kesicilerini çaldı. Bu haber yayılınca üst komşusuna yaşadıklarını açıklayan Ayşe Hanım’a: ‘‘Acındırırsan arsız, acıktırırsan hırsız olur.’’ dendi. 
 
@@ -568,7 +568,7 @@ Bu atasözünün anlamı aşağıdakilerden hangisidir?`,
             answer: 1
         },
     ],
-    gorselli: [
+    pictures: [
         { 
             question: "1.JPG",
             options: ["Yetiştirdiğiniz çocuğa çok fazla ilgi verirseniz daha fazlasını ister. Eğer hiç ilgi vermezseniz bu ilgiyi başkalarında arar.", "Bireyin toplumsal sorumluluklarını yerine getirmesi önemlidir. Bu kişi acınacak halde veya açsa bunları yerine getiremez. Bu toplumsal düzeni bozar.", "Kişinin kendine acıması veya maddi sıkıntılar dolayısıyla aç kalması onu topluma uyumsuz bir birey yapar.", "Çocuğunuza insanların sürekli acımasını sağlarsınız bu acınmadan rahatsız olur ve ilgi ister. Eğer insanların ilgisine izin vermezseniz çocuk kötü davranışlara yönelir."],
