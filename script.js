@@ -823,13 +823,12 @@ function sendToGoogleSheets(data) {
 
 function submitUserForm() {
     const name = document.getElementById('name').value;
-    const email = document.getElementById('email').value;
 
-    if (name && email) {
+    if (name) {
         document.getElementById('userForm').style.display = 'none';
         document.getElementById('testSelection').style.display = 'block';
     } else {
-        alert('Lütfen isim ve e-posta adresinizi girin.');
+        alert('Lütfen isminizi girin.');
     }
 }
 
