@@ -848,7 +848,7 @@ function displayQuestion() {
     const question = questions[currentTest][currentQuestionIndex];
     
     let questionHTML = `<div class="question-container">`;
-    if (currentTest === 'gorselli') {
+    if (currentTest === 'pictures') {
         questionHTML += `
             <img src="${question.question}" alt="Atasözü Resmi">
             <div style="margin: 15px 0; padding: 10px; background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 4px; color: #18416F;">
