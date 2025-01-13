@@ -887,7 +887,6 @@ function submitAnswer() {
     
     const data = {
         name: document.getElementById('name').value,
-        email: document.getElementById('email').value,
         testType: currentTest,
         score: score,
         questionNumber: currentQuestionIndex + 1,
