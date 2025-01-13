@@ -568,7 +568,7 @@ Bu atasözünün anlamı aşağıdakilerden hangisidir?`,
             answer: 1
         },
     ],
-    görselli: [
+    gorselli: [
         { 
             question: "1.JPG",
             options: ["Yetiştirdiğiniz çocuğa çok fazla ilgi verirseniz daha fazlasını ister. Eğer hiç ilgi vermezseniz bu ilgiyi başkalarında arar.", "Bireyin toplumsal sorumluluklarını yerine getirmesi önemlidir. Bu kişi acınacak halde veya açsa bunları yerine getiremez. Bu toplumsal düzeni bozar.", "Kişinin kendine acıması veya maddi sıkıntılar dolayısıyla aç kalması onu topluma uyumsuz bir birey yapar.", "Çocuğunuza insanların sürekli acımasını sağlarsınız bu acınmadan rahatsız olur ve ilgi ister. Eğer insanların ilgisine izin vermezseniz çocuk kötü davranışlara yönelir."],
@@ -849,7 +849,7 @@ function displayQuestion() {
     const question = questions[currentTest][currentQuestionIndex];
     
     let questionHTML = `<div class="question-container">`;
-    if (currentTest === 'görselli') {
+    if (currentTest === 'gorselli') {
         questionHTML += `
             <img src="${question.question}" alt="Atasözü Resmi">
             <div style="margin: 15px 0; padding: 10px; background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 4px; color: #18416F;">
