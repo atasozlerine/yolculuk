@@ -1,6 +1,6 @@
 // Örnek sorular (her test türü için)
 const questions = {
-    straightforward: [
+    klasik: [
         { 
             question: `1. Acındırırsan arsız, acıktırırsan hırsız olur.
 Bu atasözünün anlamı aşağıdakilerden hangisidir?`, 
@@ -242,7 +242,7 @@ Bu atasözünün anlamı aşağıdakilerden hangisidir?`,
             answer: 1
         },
     ],
-    text: [
+    metinli: [
         { 
             question: `1. Ayşe Hanım’ın oğlu Ahmet, hafif bir hastalık geçiriyordu. Hastalığı birkaç günde geçmesine rağmen annesinin ona olan ilgisini ve komşulara sürekli oğlunun hastalığından bahsetmesini gördükçe iyileştiğini söylemedi ve daha da kötüymüş gibi taklit yaptı. Bunu daha sonradan Ayşe Hanım fark etti. Ahmet bir ay sonra tekrar rahatsızlandığında annesi ona hiç ilgi vermedi ve bir şeyi olmadığını söyledi. Kötüleşen Ahmet kronik hastalığa sahip üst komşusundan ağrı kesicilerini çaldı. Bu haber yayılınca üst komşusuna yaşadıklarını açıklayan Ayşe Hanım’a: ‘‘Acındırırsan arsız, acıktırırsan hırsız olur.’’ dendi. 
 
@@ -568,7 +568,7 @@ Bu atasözünün anlamı aşağıdakilerden hangisidir?`,
             answer: 1
         },
     ],
-    pictures: [
+    görselli: [
         { 
             question: "1.JPG",
             options: ["Yetiştirdiğiniz çocuğa çok fazla ilgi verirseniz daha fazlasını ister. Eğer hiç ilgi vermezseniz bu ilgiyi başkalarında arar.", "Bireyin toplumsal sorumluluklarını yerine getirmesi önemlidir. Bu kişi acınacak halde veya açsa bunları yerine getiremez. Bu toplumsal düzeni bozar.", "Kişinin kendine acıması veya maddi sıkıntılar dolayısıyla aç kalması onu topluma uyumsuz bir birey yapar.", "Çocuğunuza insanların sürekli acımasını sağlarsınız bu acınmadan rahatsız olur ve ilgi ister. Eğer insanların ilgisine izin vermezseniz çocuk kötü davranışlara yönelir."],
@@ -849,7 +849,7 @@ function displayQuestion() {
     const question = questions[currentTest][currentQuestionIndex];
     
     let questionHTML = `<div class="question-container">`;
-    if (currentTest === 'pictures') {
+    if (currentTest === 'görselli') {
         questionHTML += `
             <img src="${question.question}" alt="Atasözü Resmi">
             <div style="margin: 15px 0; padding: 10px; background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 4px; color: #18416F;">
