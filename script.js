@@ -76,7 +76,7 @@ Bu atasözünün anlamı aşağıdakilerden hangisidir?`,
         { 
             question: `13. Gökten ne yağar ki yer kabul etmez.
 Bu atasözünün anlamı aşağıdakilerden hangisidir?`, 
-            options: ["Allah'ın kararları mutlaktır ve her insan kaderini yaşar.", "Allah'ın kararları mutlaktır ve her insan kaderini yaşar.", "Büyüklerden gelen hediyeler her zaman kabul edilir.", "Daha alt konumdakiler üst konumdakilerden gelen her şeyi kabul etmek durumundadır."],
+            options: ["Allah'ın kararları mutlaktır ve her insan kaderini yaşar.", "İnsan başına gelenleri sabır ve sakinlikle karşılamalıdır.", "Büyüklerden gelen hediyeler her zaman kabul edilir.", "Daha alt konumdakiler üst konumdakilerden gelen her şeyi kabul etmek durumundadır."],
             answer: 3
         },
         { 
@@ -347,7 +347,7 @@ Bu atasözünün anlamı aşağıdakilerden hangisidir?`,
 
 Gökten ne yağar ki yer kabul etmez.
 Bu atasözünün anlamı aşağıdakilerden hangisidir?`, 
-            options: ["Allah'ın kararları mutlaktır ve her insan kaderini yaşar.", "Allah'ın kararları mutlaktır ve her insan kaderini yaşar.", "Büyüklerden gelen hediyeler her zaman kabul edilir.", "Daha alt konumdakiler üst konumdakilerden gelen her şeyi kabul etmek durumundadır."],
+            options: ["Allah'ın kararları mutlaktır ve her insan kaderini yaşar.", "İnsan başına gelenleri sabır ve sakinlikle karşılamalıdır.", "Büyüklerden gelen hediyeler her zaman kabul edilir.", "Daha alt konumdakiler üst konumdakilerden gelen her şeyi kabul etmek durumundadır."],
             answer: 3
         },
         { 
@@ -643,7 +643,7 @@ Bu atasözünün anlamı aşağıdakilerden hangisidir?`,
         },
         { 
             question: "13.JPG",
-            options: ["Allah'ın kararları mutlaktır ve her insan kaderini yaşar.", "Allah'ın kararları mutlaktır ve her insan kaderini yaşar.", "Büyüklerden gelen hediyeler her zaman kabul edilir.", "Daha alt konumdakiler üst konumdakilerden gelen her şeyi kabul etmek durumundadır."],
+            options: ["Allah'ın kararları mutlaktır ve her insan kaderini yaşar.", "İnsan başına gelenleri sabır ve sakinlikle karşılamalıdır.", "Büyüklerden gelen hediyeler her zaman kabul edilir.", "Daha alt konumdakiler üst konumdakilerden gelen her şeyi kabul etmek durumundadır."],
             answer: 3,
             proverb: "Gökten ne yağar ki yer kabul etmez."
         },
